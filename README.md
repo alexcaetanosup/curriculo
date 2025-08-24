@@ -1,2 +1,2 @@
 # curriculo
-Portifóli / Currículo
+Portifólio / Currículo
